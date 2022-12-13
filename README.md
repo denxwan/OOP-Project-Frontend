@@ -6,6 +6,9 @@ As undergradute students in Y2S1, we had an assessment to create a fully functio
 
 # Resources
 
+*Logos used*
+<img src="images/ScreenshotsArtboard 5.jpg">
+
 # Screenshots
 
 *Home page with the ride selection*
@@ -16,3 +19,6 @@ As undergradute students in Y2S1, we had an assessment to create a fully functio
 
 *Reviews page*
 <img src="images/ScreenshotsArtboard 3.jpg">
+
+## Stats/
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/denxwan/OOP-Project-Frontend&left_color=black&right_color=orange)
